@@ -26,7 +26,7 @@ A country fried love story.
 
 ---
 
-## 👤 Solo Developer
+##  Solo Developer
 
 **Everything was done entirely by me**, including:
 - Writing, story structure, and dialogue
@@ -43,7 +43,7 @@ A country fried love story.
 
 ---
 
-##  Tech Stack
+## Technologies Used
 
 - **Engine:** Ren'Py (Python-based Visual Novel engine)  
 - **Languages:** Python, Ren’Py script  
